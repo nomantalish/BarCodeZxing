@@ -1,0 +1,11 @@
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\bin\BarCodeWeb.dll.config
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\bin\BarCodeWeb.dll
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\bin\BarCodeWeb.pdb
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\obj\Debug\BarCodeWeb.csprojAssemblyReference.cache
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\obj\Debug\BarCodeWeb.csproj.CoreCompileInputs.cache
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\obj\Debug\BarCodeWeb.dll
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\obj\Debug\BarCodeWeb.pdb
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\bin\zxing.dll
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\bin\zxing.pdb
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\bin\zxing.xml
+C:\Users\Noman Talish\source\repos\BarCodeWeb\BarCodeWeb\obj\Debug\BarCodeWeb.csproj.CopyComplete
